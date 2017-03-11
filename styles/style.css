@@ -1,0 +1,10 @@
+div {
+  display: inline-block;
+}
+
+@media only screen (max-width: 1920px){
+  .container {
+    width: 400px;
+    height: auto;
+  }
+}
